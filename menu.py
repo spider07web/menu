@@ -1,5 +1,5 @@
 def add_student(students):
-    name = input("Enter student name: ").strip()
+    name = input("Enter my  name: ").strip()
     roll_no = input("Enter roll number: ").strip()
     department = input("Enter department: ").strip()
 
